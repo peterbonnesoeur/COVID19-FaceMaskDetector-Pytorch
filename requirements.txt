@@ -1,0 +1,10 @@
+imutils
+numpy
+opencv-python
+imagezmq
+pillow
+torch
+torchvision
+scikit-learn
+matplotlib
+jupyter
