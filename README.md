@@ -20,7 +20,18 @@ pip install -r requirements.txt
 
 # Organisation
 
--**Training_mask_detection.ipynb**
+- **Dataset.zip**
+
+An extensive collection of faces with and without masks. The dataset is divided in the following way :
+
+dataset
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-train
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- mask
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- nomask
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-test
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- mask
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- nomask
+- **Training_mask_detection.ipynb**
 
 A jupyter Notebook made to train your model. IT it divided in several steps so that everyone is able to tain its on model and to verify it on the go. Do not hesitate to tweak it and create the best model there is !!
 
